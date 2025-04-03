@@ -1,4 +1,5 @@
 # My Personal Portfolio
+Crafted My own portfolio using Vite + React js and Tailwind to showcase my mix of technical expertise
 
 ![Portfolio Preview](reference.png)
 
